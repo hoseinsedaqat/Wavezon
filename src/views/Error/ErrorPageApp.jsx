@@ -10,6 +10,7 @@ import Footer from "@/components/template/footer/Footer";
 
 import Menu from "@/components/menu/Menu";
 
+
 import { Link } from "react-router-dom";
 
 function ErrorPageApp() {
