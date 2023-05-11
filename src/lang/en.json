@@ -52,5 +52,8 @@
         "your_account": "Your Account",
         "returns_orders": "Returns & Orders",
         "sign_out": "Sign Out"
+    },
+    "title": {
+        "recommend_our_brand": "Recommended for you from our brands"
     }
 }

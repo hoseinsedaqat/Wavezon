@@ -1,8 +1,10 @@
+import { useGlobalContext } from "@/context/useContext";
 function RecommendedProdcut() {
+  const { lang } = useGlobalContext();
   return (
     <>
       <div>
-        <h4>Recommended for you from our brands</h4>
+        <h4>{lang.title.recommend_our_brand}</h4>
         <div className='column'>
           <div className='column-1'>
             <img
