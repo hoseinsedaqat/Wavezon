@@ -55,5 +55,14 @@
     },
     "title": {
         "recommend_our_brand": "Recommended for you from our brands"
+    },
+    "header":{ 
+        "iran": "Iran",
+        "bnd": "Bandar-e-abbas",
+        "movies": "Movies",
+        "series": "Series",
+        "sport": "Sport",
+        "music": "Music",
+        "gaming": "Gaming"
     }
 }

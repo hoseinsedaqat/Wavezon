@@ -11,7 +11,7 @@ import ReactCountryFlag from "react-country-flag";
 import { Link } from "react-router-dom";
 
 function HeaderApp() {
-  const { cart, user } = useGlobalContext();
+  const { cart, user,lang } = useGlobalContext();
   return (
     <>
       <header>
@@ -29,8 +29,8 @@ function HeaderApp() {
               <MdOutlinePlace size={20}></MdOutlinePlace>
             </div>
             <article>
-              <p>Iran</p>
-              <p>Bandar-e-abbas</p>
+              <p>{lang.header.iran}</p>
+              <p>{lang.header.bnd}</p>
             </article>
           </div>
           <div className='header-search'>
@@ -38,13 +38,13 @@ function HeaderApp() {
               <select
                 name='category'
                 id='category'>
-                <option value='All'>All</option>
-                <option value='Books'>Books</option>
-                <option value='Movies'>Movies</option>
-                <option value='Series'>Series</option>
-                <option value='Sport'>Sport</option>
-                <option value='Music'>Music</option>
-                <option value='Gaming'>Gaming</option>
+                <option value='All'>{lang.menu.all}</option>
+                <option value='Books'>{lang.menu.books}</option>
+                <option value='Movies'>{lang.header.movies}</option>
+                <option value='Series'>{lang.header.series}</option>
+                <option value='Sport'>{lang.header.sport}</option>
+                <option value='Music'>{lang.header.music}</option>
+                <option value='Gaming'>{lang.header.gaming}</option>
               </select>
             </div>
             <div>
