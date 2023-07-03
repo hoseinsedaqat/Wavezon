@@ -1,11 +1,13 @@
+import healthproductimg from '../img/productRow/Health & Personal Care.jpg';
+import homerefreshidea from '../img/productRow/Home refresh ideas.jpg';
 export const HealthProduct = {
     title: 'Health & Personal Care',
-    img: 'https://images-na.ssl-images-amazon.com/images/W/WEBP_402378-T1/images/G/01/AmazonExports/Fuji/2022/February/DashboardCards/GW_CONS_AUS_HPC_HPCEssentials_CatCard_Desktop1x._SY304_CB627424361_.jpg'
+    img: healthproductimg
 }
 
-export const DressProduct = {
-    title: 'Dresses',
-    img: 'https://images-na.ssl-images-amazon.com/images/W/IMAGERENDERING_521856-T2/images/G/01/AmazonExports/Fuji/2022/February/DashboardCards/Fuji_dash_dress_1X._SY304_CB626369146_.jpg'
+export const HomeRefreshProduct = {
+    title: 'Home refresh ideas',
+    img: homerefreshidea
 }
 
 export const FashionTrends = {

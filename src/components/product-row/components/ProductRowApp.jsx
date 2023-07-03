@@ -8,7 +8,7 @@ import FourProductApp from "./FourProductApp";
 
 import {
   HealthProduct,
-  DressProduct,
+  HomeRefreshProduct,
 } from "@/data/ProductRow/SingleRowProduct";
 
 function ProductRowApp() {
@@ -22,7 +22,7 @@ function ProductRowApp() {
           />
           <SingleProduct
             key={"Kindleproduct"}
-            product={DressProduct}
+            product={HomeRefreshProduct}
           />
           <FourProductApp
             key={"FavoritesProduct"}
