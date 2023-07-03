@@ -1,3 +1,18 @@
+import laptopone_1 from '../img/heroSuggest/laptop_one/61eKWZDHRsL._AC_SX679_.jpg';
+import laptopone_2 from '../img/heroSuggest/laptop_one/71uVJeaAsyL._AC_SX679_.jpg';
+import laptopone_3 from '../img/heroSuggest/laptop_one/81+m+3pPAeL._AC_SX300_SY300_.jpg';
+
+import laptoptwo_1 from '../img/heroSuggest/laptop_two/71AGOX9MORL._AC_SX679_.jpg';
+import laptoptwo_2 from '../img/heroSuggest/laptop_two/811UMKiM4vL._AC_SX679_.jpg';
+import laptoptwo_3 from '../img/heroSuggest/laptop_two/816yYpaSpUL._AC_SX679_.jpg';
+
+import laptopthree_1 from '../img/heroSuggest/laptop_three/81-QpeRshHL._AC_SX466_.jpg';
+import laptopthree_2 from '../img/heroSuggest/laptop_three/816tFLwj09L._AC_SX466_.jpg';
+import laptopthree_3 from '../img/heroSuggest/laptop_three/81OiT2-NoeL.__AC_SX300_SY300_QL70_FMwebp_.webp';
+
+import laptopfour_1 from '../img/heroSuggest/laptop_four/71sgAr9atBS.__AC_SY300_SX300_QL70_FMwebp_.webp';
+import laptopfour_2 from '../img/heroSuggest/laptop_four/71bgLSBYzrL._AC_SX466_.jpg';
+import laptopfour_3 from '../img/heroSuggest/laptop_four/91wC9gHDXhL._AC_SX466_.jpg';
 export const asusSuggestLaptop = [
     {
         // https://www.amazon.com/ASUS-Vivobook-Touchscreen-i3-1115G4-Accessories/dp/B0B12H2BTB/ref=sr_1_1?crid=H9M60A8L1JQY&keywords=asus+laptop&qid=1679520386&sprefix=asus+%2Caps%2C1022&sr=8-1
@@ -29,25 +44,25 @@ export const asusSuggestLaptop = [
                 ],
                 gallery: [
                     {
-                        original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81+m+3pPAeL._AC_SX679_.jpg',
-                        thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81+m+3pPAeL._AC_SX679_.jpg',
+                        original: laptopone_3,
+                        thumbnail: laptopone_3,
                     },
                     {
-                        original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61eKWZDHRsL._AC_SX679_.jpg',
-                        thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61eKWZDHRsL._AC_SX679_.jpg'
+                        original: laptopone_1,
+                        thumbnail: laptopone_1
                     },
                     {
-                        original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71uVJeaAsyL._AC_SX679_.jpg',
-                        thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71uVJeaAsyL._AC_SX679_.jpg'
+                        original: laptopone_2,
+                        thumbnail: laptopone_2
                     }
                 ],
-                img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81+m+3pPAeL._AC_SX679_.jpg',
+                img: laptopone_3,
                 quantity: 1,
                 name: 'ASUS 2023 Vivobook 15.6" FHD Touchscreen Thin Laptop, Intel Core i3-1115G4 Up to 3.9Ghz, 20GB RAM,1TB PCIE SSD, HDMI, Fingerprint, Backlit KB, Windows 11S, Grey+ GM Accessories'
             },
             {
                 id: `4064373a-5f2f-4966-88c5-e2fe20fd3454`,
-                img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71AGOX9MORL._AC_SX679_.jpg',
+                img: laptoptwo_1,
                 price: 1149.99,
                 brand: 'Asus',
                 information: [
@@ -70,16 +85,16 @@ export const asusSuggestLaptop = [
                 ],
                 gallery: [
                     {
-                        original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71AGOX9MORL._AC_SX679_.jpg',
-                        thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71AGOX9MORL._AC_SX679_.jpg',
+                        original: laptoptwo_1,
+                        thumbnail: laptoptwo_1,
                     },
                     {
-                        original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71DdDIRNZbL._AC_SX466_.jpg',
-                        thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71DdDIRNZbL._AC_SX466_.jpg'
+                        original: laptoptwo_2,
+                        thumbnail: laptoptwo_2
                     },
                     {
-                        original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/811UMKiM4vL._AC_SX466_.jpg',
-                        thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/811UMKiM4vL._AC_SX466_.jpg'
+                        original: laptoptwo_3,
+                        thumbnail: laptoptwo_3
                     }
                 ],
                 quantity: 1,
@@ -91,7 +106,7 @@ export const asusSuggestLaptop = [
             // https://www.amazon.com/ASUS-Display-Opti-Mechanical-Keyboard-G533QS-DS94/dp/B0B7R16YLT/ref=sr_1_4?crid=H9M60A8L1JQY&keywords=asus+laptop&qid=1679520386&sprefix=asus+%2Caps%2C1022&sr=8-4
             {
                 id: `c0308944-5c88-4380-b11a-a1a9b335b0b8`,
-                img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81OiT2-NoeL._AC_SX466_.jpg',
+                img: laptopthree_3,
                 price: 736.99,
                 brand: 'Asus',
                 information: [
@@ -114,16 +129,16 @@ export const asusSuggestLaptop = [
                 ],
                 gallery: [
                     {
-                        original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81OiT2-NoeL._AC_SX466_.jpg',
-                        thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81OiT2-NoeL._AC_SX466_.jpg',
+                        original: laptopthree_3,
+                        thumbnail: laptopthree_3,
                     },
                     {
-                        original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81-QpeRshHL._AC_SX466_.jpg',
-                        thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81-QpeRshHL._AC_SX466_.jpg'
+                        original: laptopthree_2,
+                        thumbnail: laptopthree_2
                     },
                     {
-                        original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/816tFLwj09L._AC_SX466_.jpg',
-                        thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/816tFLwj09L._AC_SX466_.jpg'
+                        original: laptopthree_1,
+                        thumbnail: laptopthree_1
                     }
                 ],
                 quantity: 1,
@@ -131,7 +146,7 @@ export const asusSuggestLaptop = [
             },
             {
                 id: `5970819a-57c0-4352-a6b7-fb24971f504f`,
-                img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71sgAr9atBS._AC_SX466_.jpg',
+                img: laptopfour_1,
                 price: 1999.99,
                 brand: 'Asus',
                 information: [
@@ -154,16 +169,16 @@ export const asusSuggestLaptop = [
                 ],
                 gallery: [
                     {
-                        original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71sgAr9atBS._AC_SX466_.jpg',
-                        thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71sgAr9atBS._AC_SX466_.jpg',
+                        original: laptopfour_1,
+                        thumbnail: laptopfour_1,
                     },
                     {
-                        original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/91wC9gHDXhL._AC_SX466_.jpg',
-                        thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/91wC9gHDXhL._AC_SX466_.jpg'
+                        original: laptopfour_2,
+                        thumbnail: laptopfour_2
                     },
                     {
-                        original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71bgLSBYzrL._AC_SX466_.jpg',
-                        thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71bgLSBYzrL._AC_SX466_.jpg'
+                        original: laptopfour_3,
+                        thumbnail: laptopfour_3
                     }
                 ],
                 quantity: 1,
