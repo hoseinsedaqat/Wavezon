@@ -2,7 +2,7 @@ import SingleProduct from "../ui/Card/SingleProduct";
 
 import {
   BeautyPicks,
-  FitAtHome,
+  HomeUnder30,
   ComputersAndAccessories,
   DealsTools,
 } from "@/data/ProductRow/SingleRowProduct";
@@ -13,7 +13,7 @@ function PCRowOne() {
       <section id='product-category'>
         <aside>
           <SingleProduct product={BeautyPicks} />
-          <SingleProduct product={FitAtHome} />
+          <SingleProduct product={HomeUnder30} />
           <SingleProduct product={ComputersAndAccessories} />
           <SingleProduct product={DealsTools} />
         </aside>
