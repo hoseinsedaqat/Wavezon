@@ -1,3 +1,14 @@
+import ps5one_1 from '../img/heroSuggest/ps5_one/51NnxrCKFhL._SX218_BO1,204,203,200_QL40_FMwebp_.webp';
+import ps5one_2 from '../img/heroSuggest/ps5_one/81suz8jjNpL.jpg';
+import ps5one_3 from '../img/heroSuggest/ps5_one/91M+OXebs-L.jpg';
+
+import ps5two_1 from '../img/heroSuggest/ps5_two/51fWBU262UL._SX218_BO1,204,203,200_QL40_FMwebp_.webp';
+
+import ps5three_1 from '../img/heroSuggest/ps5_three/51sHmZTpgkL._SY291_BO1,204,203,200_QL40_FMwebp_.webp';
+import ps5three_2 from '../img/heroSuggest/ps5_three/31T+Th9d0QL.jpg';
+
+import ps5four_1 from '../img/heroSuggest/ps5_four/41K9+4k4F5L._SY344_BO1,204,203,200_.jpg';
+import ps5four_2 from '../img/heroSuggest/ps5_four/31rrRMu-hzL.jpg';
 export const ps5Game = [
     {
         // https://www.amazon.com/Hogwarts-Legacy-Official-Game-Guide/dp/1338767658/ref=sr_1_1?crid=3J0U1XGAX1JKR&keywords=ps5+game&qid=1679524264&s=books&sprefix=ps5+%2Cstripbooks%2C992&sr=1-1
@@ -7,7 +18,7 @@ export const ps5Game = [
         products_col_one: [
             {
                 id: `9cdb787f-d260-47d5-a80f-9b04e2a39923`,
-                img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/91gO2A87g+L._AC_UY327_FMwebp_QL65_.jpg',
+                img: ps5one_1,
                 brand: `Paul Davies`,
                 price: 14.99,
                 information: [
@@ -30,16 +41,16 @@ export const ps5Game = [
                 ],
                 gallery: [
                     {
-                        original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/91gO2A87g+L._AC_UY327_FMwebp_QL65_.jpg',
-                        thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/91gO2A87g+L._AC_UY327_FMwebp_QL65_.jpg',
+                        original: ps5one_1,
+                        thumbnail: ps5one_1,
                     },
                     {
-                        original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81suz8jjNpL.jpg',
-                        thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81suz8jjNpL.jpg',
+                        original: ps5one_2,
+                        thumbnail: ps5one_2,
                     },
                     {
-                        original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/91keLAcpi5L.jpg',
-                        thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/91keLAcpi5L.jpg',
+                        original: ps5one_3,
+                        thumbnail: ps5one_3,
                     }
                 ],
                 quantity: 1,
@@ -69,11 +80,11 @@ export const ps5Game = [
                 ],
                 gallery: [
                     {
-                        original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81I-Kiv9n8L._AC_UY327_FMwebp_QL65_.jpg',
-                        thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81I-Kiv9n8L._AC_UY327_FMwebp_QL65_.jpg',
+                        original: ps5two_1,
+                        thumbnail: ps5two_1,
                     },
                 ],
-                img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81I-Kiv9n8L._AC_UY327_FMwebp_QL65_.jpg',
+                img: ps5two_1,
                 quantity: 1,
                 name: 'The Art of God of War Ragnarök'
             },
@@ -105,21 +116,21 @@ export const ps5Game = [
                 ],
                 gallery: [
                     {
-                        original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/719zeqpAKQL._AC_UY327_FMwebp_QL65_.jpg',
-                        thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/719zeqpAKQL._AC_UY327_FMwebp_QL65_.jpg',
+                        original: ps5three_1,
+                        thumbnail: ps5three_1,
                     },
                     {
-                        original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/31T+Th9d0QL.jpg',
-                        thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/31T+Th9d0QL.jpg',
+                        original: ps5three_2,
+                        thumbnail: ps5three_2,
                     }
                 ],
-                img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/719zeqpAKQL._AC_UY327_FMwebp_QL65_.jpg',
+                img: ps5three_1,
                 quantity: 1,
                 name: 'Call of Duty: Modern Warfare II Game Guide 2022: CoD: Modern Warfare 2, CoD MW2 - How to become a professional gamer'
             },
             {
                 id: `7bbe7d72-a6bc-4b46-9e84-0dd420dbfa43`,
-                img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71zuRxgKrvL._AC_UY327_FMwebp_QL65_.jpg',
+                img: ps5four_1,
                 brand: `Jimmi Laustsen`,
                 price: 15.99,
                 information: [
@@ -142,12 +153,12 @@ export const ps5Game = [
                 ],
                 gallery: [
                     {
-                        original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71zuRxgKrvL._AC_UY327_FMwebp_QL65_.jpg',
-                        thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71zuRxgKrvL._AC_UY327_FMwebp_QL65_.jpg',
+                        original: ps5four_1,
+                        thumbnail: ps5four_1,
                     },
                     {
-                        original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/31rrRMu-hzL.jpg',
-                        thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/31rrRMu-hzL.jpg',
+                        original: ps5four_2,
+                        thumbnail: ps5four_2,
                     }
                 ],
                 quantity: 1,
