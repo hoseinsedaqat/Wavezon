@@ -17,6 +17,36 @@ import Booksix_2 from './img/Books/Booksix_2.jpg';
 import Bookseven from './img/Books/Bookseven.webp';
 
 // smartwatch
+import Watchone from './img/SmartWatch/Watchone.jpg';
+import Watchone_1 from './img/SmartWatch/Watchone_1.jpg';
+import Watchone_2 from './img/SmartWatch/Watchone_2.jpg';
+
+import Watchtwo from './img/SmartWatch/Watchtwo.jpg';
+import Watchtwo_1 from './img/SmartWatch/Watchtwo_1.jpg';
+import Watchtwo_2 from './img/SmartWatch/Watchtwo_2.jpg';
+
+import Watchthree from './img/SmartWatch/Watchthree.jpg';
+import Watchthree_1 from './img/SmartWatch/Watchthree_1.jpg';
+import Watchthree_2 from './img/SmartWatch/Watchthree_2.jpg';
+
+import Watchfour from './img/SmartWatch/Watchfour.jpg';
+import Watchfour_1 from './img/SmartWatch/Watchfour_1.jpg';
+import Watchfour_2 from './img/SmartWatch/Watchfour_2.jpg';
+
+import Watchfive from './img/SmartWatch/Watchfive.jpg';
+import Watchfive_1 from './img/SmartWatch/Watchfive_1.jpg';
+import Watchfive_2 from './img/SmartWatch/Watchfive_2.jpg';
+
+import Watchsix from './img/SmartWatch/Watchsix.jpg';
+import Watchsix_1 from './img/SmartWatch/Watchsix_1.jpg';
+import Watchsix_2 from './img/SmartWatch/Watchsix_2.jpg';
+
+import Watchseven from './img/SmartWatch/Watchseven.jpg';
+import Watchseven_1 from './img/SmartWatch/Watchseven_1.jpg';
+import Watchseven_2 from './img/SmartWatch/Watchseven_2.jpg';
+
+// backpack
+
 export const allProduct = [
     // https://www.amazon.com/Backpack-Business-Charging-Resistant-Computer/dp/B06XZTZ7GB/ref=sr_1_1?crid=1W728VOU0AZ32&keywords=backpack&qid=1680034995&sprefix=running+shoes%2Caps%2C1797&sr=8-1
     {
@@ -2075,19 +2105,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61Sl+xoVHoL._AC_SX300_SY300_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61Sl+xoVHoL._AC_SX300_SY300_.jpg',
+                original: Watchone,
+                thumbnail: Watchone,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71aj77Jdp9L._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71aj77Jdp9L._AC_SX466_.jpg',
+                original: Watchone_1,
+                thumbnail: Watchone_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61Su0aM8NoL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61Su0aM8NoL._AC_SX466_.jpg',
+                original: Watchone_2,
+                thumbnail: Watchone_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61Sl+xoVHoL._AC_SX300_SY300_.jpg',
+        img: Watchone,
         name: 'SAMSUNG Galaxy Watch 5 Pro 45mm Bluetooth Smartwatch w/ Body, Health, Fitness and Sleep Tracker, Improved Battery, Sapphire Crystal Glass, GPS Route Tracking, Titanium Frame, US Version, Black'
     },
     // https://www.amazon.com/Amazfit-Smartwatch-Military-Certified-Waterproof/dp/B08X9WS6VW/ref=sr_1_2_sspa?crid=3M4M3ZNLZM9GI&keywords=smart+watch&qid=1680029112&sprefix=smart+watc%2Caps%2C369&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFUVDNaNDFVUjQyS0wmZW5jcnlwdGVkSWQ9QTA3NjY5NjJNUlBKNk1ITlpVTVUmZW5jcnlwdGVkQWRJZD1BMDY2MTM2NDMzMEY0RlYyODEzMVImd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl
@@ -2117,19 +2147,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71HvekeiFkL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71HvekeiFkL._AC_SX679_.jpg',
+                original: Watchtwo,
+                thumbnail: Watchtwo,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71D2-OsX-hL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71D2-OsX-hL._AC_SX679_.jpg',
+                original: Watchtwo_1,
+                thumbnail: Watchtwo_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71kLWFd5hoL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71kLWFd5hoL._AC_SX679_.jpg',
+                original: Watchtwo_2,
+                thumbnail: Watchtwo_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71HvekeiFkL._AC_SX679_.jpg',
+        img: Watchtwo,
         name: 'Amazfit T-Rex Pro Smart Watch for Men Rugged Outdoor GPS Fitness Watch, 15 Military Standard Certified, 100+ Sports Modes, 10 ATM Water-Resistant, 18 Day Battery Life, Blood Oxygen Monitor, Black'
     },
     // https://www.amazon.com/Samsung-Bluetooth-Advanced-Monitoring-Tracking/dp/B08HL5K8JB/ref=sr_1_5?crid=MODJTW6ASJI3&keywords=smart+watch&qid=1680029290&sprefix=smart+wat%2Caps%2C421&sr=8-5
@@ -2159,19 +2189,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/818MAcfvjPL._AC_SY679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/818MAcfvjPL._AC_SY679_.jpg',
+                original: Watchthree,
+                thumbnail: Watchthree,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81fdlQqkeRL._AC_SY679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81fdlQqkeRL._AC_SY679_.jpg',
+                original: Watchthree_1,
+                thumbnail: Watchthree_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81uxZLm496L._AC_SY679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81uxZLm496L._AC_SY679_.jpg',
+                original: Watchthree_2,
+                thumbnail: Watchthree_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/818MAcfvjPL._AC_SY679_.jpg',
+        img: Watchthree,
         name: 'Samsung Galaxy Watch 3 (45mm, GPS, Bluetooth) Smart Watch with Advanced Health Monitoring, Fitness Tracking , and Long Lasting Battery - Mystic Black (US Version) (Renewed)'
     },
     // https://www.amazon.com/Touchscreen-Activity-Smartwatch-Signature-Charger/dp/B0B8L69BJW/ref=sr_1_17_sspa?crid=MODJTW6ASJI3&keywords=smart+watch&qid=1680029290&sprefix=smart+wat%2Caps%2C421&sr=8-17-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExVUs0NkFVUEMwSzc0JmVuY3J5cHRlZElkPUEwODUyNjE1M1FaRzNSMDkzWExQRCZlbmNyeXB0ZWRBZElkPUEwNTIzMzkxMzBNQlhEUzMwNTZLMiZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
@@ -2201,19 +2231,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/6126A+NMC1L._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/6126A+NMC1L._AC_SX466_.jpg',
+                original: Watchfour,
+                thumbnail: Watchfour,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81b46lLzxvL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81b46lLzxvL._AC_SX466_.jpg',
+                original: Watchfour_1,
+                thumbnail: Watchfour_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61gnpKqn8aL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61gnpKqn8aL._AC_SX466_.jpg',
+                original: Watchfour_2,
+                thumbnail: Watchfour_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/6126A+NMC1L._AC_SX466_.jpg',
+        img: Watchfour,
         name: `Fossil Gen 6 Men's 44mm Touchscreen GPS and Activity Smartwatch with Signature Series Charger Bundle`
     },
     // https://www.amazon.com/Apple-Cellular-Titanium-Precision-Extra-Long/dp/B0BDJK4G9C?ref_=ast_sto_dp
@@ -2243,19 +2273,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/91z5KuonXrL.__AC_SY445_SX342_QL70_FMwebp_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/91z5KuonXrL.__AC_SY445_SX342_QL70_FMwebp_.jpg',
+                original: Watchfive,
+                thumbnail: Watchfive,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81LNgb-7FnL._AC_SX522_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81LNgb-7FnL._AC_SX522_.jpg',
+                original: Watchfive_1,
+                thumbnail: Watchfive_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/911Gc7IMlmL._AC_SX522_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/911Gc7IMlmL._AC_SX522_.jpg',
+                original: Watchfive_2,
+                thumbnail: Watchfive_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/91z5KuonXrL.__AC_SY445_SX342_QL70_FMwebp_.jpg',
+        img: Watchfive,
         name: `Apple Watch Ultra [GPS + Cellular 49mm] Smart Watch w/Rugged Titanium Case & Orange Alpine Loop Medium. Fitness Tracker, Precision GPS, Action Button, Extra-Long Battery Life, Brighter Retina Display`
     },
     // https://www.amazon.com/Apple-Cellular-Starlight-Aluminum-Always/dp/B0BDJ5SP5Q?ref_=ast_sto_dp
@@ -2285,19 +2315,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71jOw9iquHL._AC_SX522_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71jOw9iquHL._AC_SX522_.jpg',
+                original: Watchsix,
+                thumbnail: Watchsix,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71wgUDQfX9L._AC_SX522_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71wgUDQfX9L._AC_SX522_.jpg',
+                original: Watchsix_1,
+                thumbnail: Watchsix_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/91d3XLmXUvL._AC_SX522_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/91d3XLmXUvL._AC_SX522_.jpg',
+                original: Watchsix_2,
+                thumbnail: Watchsix_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71jOw9iquHL._AC_SX522_.jpg',
+        img: Watchsix,
         name: 'Apple Watch Series 8 [GPS + Cellular 41mm] Smart Watch w/Starlight Aluminum Case with Starlight Sport Band - S/M. Fitness Tracker, Blood Oxygen & ECG Apps, Always-On Retina Display, Water Resistant'
     },
     // https://www.amazon.com/Apple-Watch-Midnight-Aluminum-Always/dp/B0BDHM49BJ?ref_=ast_sto_dp
@@ -2327,19 +2357,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71ulah9iIwL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71ulah9iIwL._AC_SX679_.jpg',
+                original: Watchseven,
+                thumbnail: Watchseven,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61nZpsQlr5L._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61nZpsQlr5L._AC_SX679_.jpg',
+                original: Watchseven_1,
+                thumbnail: Watchseven_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71MTaeb2J6L._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71MTaeb2J6L._AC_SX679_.jpg',
+                original: Watchseven_2,
+                thumbnail: Watchseven_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71ulah9iIwL._AC_SX679_.jpg',
+        img: Watchseven,
         name: 'Apple Watch Series 8 [GPS 41mm] Smart Watch w/Midnight Aluminum Case with Midnight Sport Band - M/L. Fitness Tracker, Blood Oxygen & ECG Apps, Always-On Retina Display, Water Resistant'
     },
 ]
