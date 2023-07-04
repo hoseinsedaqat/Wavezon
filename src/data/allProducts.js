@@ -46,7 +46,35 @@ import Watchseven_1 from './img/SmartWatch/Watchseven_1.jpg';
 import Watchseven_2 from './img/SmartWatch/Watchseven_2.jpg';
 
 // backpack
+import packone from './img/Backpack/packone.jpg';
+import packone_1 from './img/Backpack/packone_1.jpg';
+import packone_2 from './img/Backpack/packone_2.jpg';
 
+import packtwo from './img/Backpack/packtwo.jpg';
+import packtwo_1 from './img/Backpack/packtwo_1.jpg';
+import packtwo_2 from './img/Backpack/packtwo_2.jpg';
+
+import packthree from './img/Backpack/packthree.jpg';
+import packthree_1 from './img/Backpack/packthree_1.jpg';
+import packthree_2 from './img/Backpack/packthree_2.jpg';
+
+import packfour from './img/Backpack/packfour.jpg';
+import packfour_1 from './img/Backpack/packfour_1.jpg';
+import packfour_2 from './img/Backpack/packfour_2.jpg';
+
+import packfive from './img/Backpack/packfive.webp';
+import packfive_1 from './img/Backpack/packfive_1.jpg';
+import packfive_2 from './img/Backpack/packfive_2.jpg';
+
+import packsix from './img/Backpack/packsix.jpg';
+import packsix_1 from './img/Backpack/packsix_1.jpg';
+import packsix_2 from './img/Backpack/packsix_2.jpg';
+
+import packseven from './img/Backpack/packseven.webp';
+import packseven_1 from './img/Backpack/packseven_1.jpg';
+import packseven_2 from './img/Backpack/packseven_2.jpg';
+
+// smartphone
 export const allProduct = [
     // https://www.amazon.com/Backpack-Business-Charging-Resistant-Computer/dp/B06XZTZ7GB/ref=sr_1_1?crid=1W728VOU0AZ32&keywords=backpack&qid=1680034995&sprefix=running+shoes%2Caps%2C1797&sr=8-1
     {
@@ -75,19 +103,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81OFxhFWmML.__AC_SX300_SY300_QL70_FMwebp_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81OFxhFWmML.__AC_SX300_SY300_QL70_FMwebp_.jpg',
+                original: packone,
+                thumbnail: packone,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71dwypUH-JL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71dwypUH-JL._AC_SX466_.jpg',
+                original: packone_1,
+                thumbnail: packone_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81I3QB77AtL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81I3QB77AtL._AC_SX466_.jpg',
+                original: packone_2,
+                thumbnail: packone_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81OFxhFWmML.__AC_SX300_SY300_QL70_FMwebp_.jpg',
+        img: packone,
         name: `Matein Travel Laptop Backpack, Business Anti Theft Slim Durable Laptops Backpack with USB Charging Port, Water Resistant College School Computer Bag Gifts for Men & Women Fits 15.6 Inch Notebook, Grey`
     },
     // https://www.amazon.com/dp/B07QVJHJ7J/ref=redir_mobile_desktop?_encoding=UTF8&aaxitk=0c2f84dfe8596eb7116261ac9308704a&content-id=amzn1.sym.7dd77237-72be-4809-b5b5-d553eab7ad9d%3Aamzn1.sym.7dd77237-72be-4809-b5b5-d553eab7ad9d&hsa_cr_id=7976300900701&pd_rd_plhdr=t&pd_rd_r=a1ec220b-cce7-4c9f-bdaf-c24f87286907&pd_rd_w=FMmhr&pd_rd_wg=fzp6z&qid=1680034995&ref_=sbx_be_s_sparkle_td_asin_2_title&sr=1-3-9e67e56a-6f64-441f-a281-df67fc737124
@@ -117,19 +145,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/91HB04Gxa2S._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/91HB04Gxa2S._AC_SX466_.jpg',
+                original: packtwo,
+                thumbnail: packtwo,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81mXgXVnSDS._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81mXgXVnSDS._AC_SX466_.jpg',
+                original: packtwo_1,
+                thumbnail: packtwo_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81oynVIjOZS._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81oynVIjOZS._AC_SX466_.jpg',
+                original: packtwo_2,
+                thumbnail: packtwo_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/91HB04Gxa2S._AC_SX466_.jpg',
+        img: packtwo,
         name: `Modoker Mens Canvas Vintage Backpack for Men,Women, Travel Laptop Backpack Fits 17/15.6 Inch Computer & Tablet, Large Bookbag Rucksack Backpack with USB Charging Port, Brown`
     },
     // https://www.amazon.com/Convertible-Daypack-Laptop-Backpack-College/dp/B08MJPHB9R/ref=sxin_16_trfobq2a_4_B08MJPHB9R?content-id=amzn1.sym.d87bdde9-97f6-47ac-b339-55167deba1dc%3Aamzn1.sym.d87bdde9-97f6-47ac-b339-55167deba1dc&crid=1W728VOU0AZ32&cv_ct_cx=backpack&keywords=backpack&pd_rd_i=B08MJPHB9R&pd_rd_r=e109d6d4-7592-4991-ae86-de403f6dafa5&pd_rd_w=IeKKP&pd_rd_wg=CEMlr&pf_rd_p=d87bdde9-97f6-47ac-b339-55167deba1dc&pf_rd_r=GFB0Z40HW680GWXXDHEW&qid=1680034995&sbo=EO%2BcdOgoisx3waG5xqcZQA%3D%3D&sprefix=running+shoes%2Caps%2C1797&sr=1-5-c944532c-3909-4a2a-84a2-570d2ee3cd13
@@ -159,19 +187,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71-RIJlMG9L._AC_UX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71-RIJlMG9L._AC_UX679_.jpg',
+                original: packthree,
+                thumbnail: packthree,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51zuP4kvghL._AC_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51zuP4kvghL._AC_.jpg',
+                original: packthree_1,
+                thumbnail: packthree_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/610ADel72DL._AC_UL1001_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/610ADel72DL._AC_UL1001_.jpg',
+                original: packthree_2,
+                thumbnail: packthree_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71-RIJlMG9L._AC_UX679_.jpg',
+        img: packthree,
         name: 'CYUREAY Women Convertible Tote Daypack Laptop Backpack College School Travel Casual Bag Fits 15.6 Inch Laptop'
     },
     // https://www.amazon.com/VGCUB-Backpack-Approved-Waterproof-Business/dp/B0B6F558KR/ref=sr_1_8?crid=1W728VOU0AZ32&keywords=backpack&qid=1680034995&sprefix=running+shoes%2Caps%2C1797&sr=8-8
@@ -201,19 +229,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/611GyR9cmxL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/611GyR9cmxL._AC_SX466_.jpg',
+                original: packfour,
+                thumbnail: packfour,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71KIs2Qmd0L._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71KIs2Qmd0L._AC_SX466_.jpg',
+                original: packfour_1,
+                thumbnail: packfour_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71UiaN9TS-L._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71UiaN9TS-L._AC_SX466_.jpg',
+                original: packfour_2,
+                thumbnail: packfour_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/611GyR9cmxL._AC_SX466_.jpg',
+        img: packfour,
         name: 'VGCUB Carry on Backpack,Large Travel Backpack for Women Men Airline Approved Gym Backpack Waterproof Business Laptop Daypack,Beige'
     },
     // https://www.amazon.com/Monsdle-Backpack-Resistant-Backpacks-Computer/dp/B08DHRC97Q/ref=sr_1_16?crid=1W728VOU0AZ32&keywords=backpack&qid=1680034995&sprefix=running+shoes%2Caps%2C1797&sr=8-16
@@ -243,19 +271,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71Yt3lsE9AL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71Yt3lsE9AL._AC_SX466_.jpg',
+                original: packfive,
+                thumbnail: packfive,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71YXfqIdySL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71YXfqIdySL._AC_SX466_.jpg',
+                original: packfive_1,
+                thumbnail: packfive_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71YVyMW-G1L._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71YVyMW-G1L._AC_SX466_.jpg',
+                original: packfive_2,
+                thumbnail: packfive_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71Yt3lsE9AL._AC_SX466_.jpg',
+        img: packfive,
         name: 'Monsdle Travel Laptop Backpack Anti Theft Water Resistant Backpacks School Computer Bookbag with USB Charging Port for Men Women College Students Fits 15.6 Inch Laptop (Grey)'
     },
     // https://www.amazon.com/Carhartt-Essential-Laptop-Backpack-Brown/dp/B00F1XCM8E/ref=sr_1_20?crid=1W728VOU0AZ32&keywords=backpack&qid=1680035278&sprefix=running+shoes%2Caps%2C1797&sr=8-20
@@ -285,19 +313,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81i5o4MfKVL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81i5o4MfKVL._AC_SX466_.jpg',
+                original: packsix,
+                thumbnail: packsix,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81bD+KuGfbL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81bD+KuGfbL._AC_SX466_.jpg',
+                original: packsix_1,
+                thumbnail: packsix_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51YUKdu8XAL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51YUKdu8XAL._AC_SX466_.jpg',
+                original: packsix_2,
+                thumbnail: packsix_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81i5o4MfKVL._AC_SX466_.jpg',
+        img: packsix,
         name: 'Carhartt Unisex Adult Essentials Backpack with 15-Inch Laptop Sleeve for Travel, Work and School, Brown, One Size'
     },
     // https://www.amazon.com/SUPACOOL-Lightweight-Casual-Backpack-Charging/dp/B09G1TPWBQ/ref=sr_1_24?crid=1W728VOU0AZ32&keywords=backpack&qid=1680035278&sprefix=running+shoes%2Caps%2C1797&sr=8-24
@@ -327,19 +355,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61u1TgEUldL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61u1TgEUldL._AC_SX466_.jpg',
+                original: packseven,
+                thumbnail: packseven,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51tuxD7d54L._AC_SY679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51tuxD7d54L._AC_SY679_.jpg',
+                original: packseven_1,
+                thumbnail: packseven_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71MqyXsHPCL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71MqyXsHPCL._AC_SX466_.jpg',
+                original: packseven_2,
+                thumbnail: packseven_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61u1TgEUldL._AC_SX466_.jpg',
+        img: packseven,
         name: 'SUPACOOL Lightweight Casual Laptop Backpack with USB Charging Port For for Men and Women, School Bookbag for College (Full Black)'
     },
     // https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=zg_sccl_2/143-7867947-0622545?pd_rd_w=LbKPB&content-id=amzn1.sym.193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_p=193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_r=AJDFRVWM3WVXFHRP59MN&pd_rd_wg=y5J0T&pd_rd_r=84e5d408-80a6-4284-acfc-3c44b8e76fae&pd_rd_i=0735211299&psc=1
@@ -592,8 +620,8 @@ export const allProduct = [
         img: Bookseven,
         name: `Dark Future: Uncovering the Great Reset's Terrifying Next Phase (The Great Reset Series)`
     },
-     // https://www.amazon.com/WOOKRAYS-Skateboard-Longboard-Adjustment-Skateboard/dp/B09HY2YVVZ/ref=sr_1_21_sspa?keywords=boosted+board&qid=1680049957&sprefix=boosted%2Caps%2C569&sr=8-21-spons&psc=1&smid=A1O52LWSZ8V4FX&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyS0ZYNlA0RjlMUVFBJmVuY3J5cHRlZElkPUEwNTU3OTY0MUZLWFJFSzJZWENXWSZlbmNyeXB0ZWRBZElkPUEwMTkzMTQwMktSRU1ZUERFOEczRiZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
-     {
+    // https://www.amazon.com/WOOKRAYS-Skateboard-Longboard-Adjustment-Skateboard/dp/B09HY2YVVZ/ref=sr_1_21_sspa?keywords=boosted+board&qid=1680049957&sprefix=boosted%2Caps%2C569&sr=8-21-spons&psc=1&smid=A1O52LWSZ8V4FX&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyS0ZYNlA0RjlMUVFBJmVuY3J5cHRlZElkPUEwNTU3OTY0MUZLWFJFSzJZWENXWSZlbmNyeXB0ZWRBZElkPUEwMTkzMTQwMktSRU1ZUERFOEczRiZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
+    {
         id: `fd00dbe4-daba-4895-980c-3cb5522c9796`,
         price: 369.99,
         quantity: 1,
@@ -1768,8 +1796,8 @@ export const allProduct = [
         img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61aQ3uAkdaL._AC_SX679_.jpg',
         name: `Goplus 9.8'/10'/11' Inflatable Stand Up Paddle Board, 6.5” Thick SUP with Premium Accessories and Carry Bag, Wide Stance, Bottom Fin for Paddling, Surf Control, Non-Slip Deck, for Youth and Adult`
     },
-     // https://www.amazon.com/Nothing-Phone1-256GB-Factory-Unlocked/dp/B0B76J71DJ/ref=sr_1_2?keywords=nothing+phone+1&qid=1680035495&sprefix=nothing%2Caps%2C341&sr=8-2
-     {
+    // https://www.amazon.com/Nothing-Phone1-256GB-Factory-Unlocked/dp/B0B76J71DJ/ref=sr_1_2?keywords=nothing+phone+1&qid=1680035495&sprefix=nothing%2Caps%2C341&sr=8-2
+    {
         id: `adbc5e57-c8f5-4457-af0a-a7a57ba06a84`,
         price: 416.00,
         quantity: 1,
