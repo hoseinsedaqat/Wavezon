@@ -1,10 +1,27 @@
+import Bookone from '../img/Books/Bookone.jpg';
+
+import Booktwo from '../img/Books/Booktwo.webp';
+
+import Bookthree from '../img/Books/Bookthree.webp';
+
+import Bookfour from '../img/Books/Bookfour.webp';
+
+import Bookfive from '../img/Books/Bookfive.webp';
+import Bookfive_1 from '../img/Books/Bookfive_1.jpg';
+
+import Booksix from '../img/Books/Booksix.jpg';
+import Booksix_1 from '../img/Books/Booksix_1.jpg';
+import Booksix_2 from '../img/Books/Booksix_2.jpg';
+
+import Bookseven from '../img/Books/Bookseven.webp';
+
 export const BooksProduct = {
     title: 'Books',
     products: [
         // https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=zg_sccl_2/143-7867947-0622545?pd_rd_w=LbKPB&content-id=amzn1.sym.193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_p=193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_r=AJDFRVWM3WVXFHRP59MN&pd_rd_wg=y5J0T&pd_rd_r=84e5d408-80a6-4284-acfc-3c44b8e76fae&pd_rd_i=0735211299&psc=1
         {
             id: `922719f7-f42a-43cf-b5c7-9f8406f2760a`,
-            img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/513RN9tL-AL._SX329_BO1,204,203,200_.jpg',
+            img: Bookone,
             price: 27.00,
             quantity: 1,
             path: 'books',
@@ -29,17 +46,9 @@ export const BooksProduct = {
             ],
             gallery: [
                 {
-                    original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/513RN9tL-AL._SX329_BO1,204,203,200_.jpg',
-                    thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/513RN9tL-AL._SX329_BO1,204,203,200_.jpg',
+                    original: Bookone,
+                    thumbnail: Bookone,
                 },
-                {
-                    original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81byNvv6hoL.jpg',
-                    thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81byNvv6hoL.jpg',
-                },
-                {
-                    original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81BxPGrdKML.jpg',
-                    thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81BxPGrdKML.jpg',
-                }
             ],
             name: 'Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones'
         },
@@ -70,11 +79,11 @@ export const BooksProduct = {
             ],
             gallery: [
                 {
-                    original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51gMqu5li9L._SX321_BO1,204,203,200_.jpg',
-                    thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51gMqu5li9L._SX321_BO1,204,203,200_.jpg',
+                    original: Booktwo,
+                    thumbnail: Booktwo,
                 }
             ],
-            img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51gMqu5li9L._SX321_BO1,204,203,200_.jpg',
+            img: Booktwo,
             name: 'Eat to Beat Your Diet: Burn Fat, Heal Your Metabolism, and Live Longer'
         },
         // https://www.amazon.com/Housemaid-Freida-McFadden/dp/1538742578/ref=zg_sccl_2/143-7867947-0622545?pd_rd_w=LbKPB&content-id=amzn1.sym.193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_p=193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_r=AJDFRVWM3WVXFHRP59MN&pd_rd_wg=y5J0T&pd_rd_r=84e5d408-80a6-4284-acfc-3c44b8e76fae&pd_rd_i=1538742578&psc=1
@@ -104,11 +113,11 @@ export const BooksProduct = {
             ],
             gallery: [
                 {
-                    original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/411u5WTIH9L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg',
-                    thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/411u5WTIH9L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg',
+                    original: Bookthree,
+                    thumbnail: Bookthree,
                 }
             ],
-            img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/411u5WTIH9L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg',
+            img: Bookthree,
             name: 'The Housemaid'
         },
         // https://www.amazon.com/dp/1641292970/ref=s9_acsd_al_bw_c2_x_5_i?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-14&pf_rd_r=AJDFRVWM3WVXFHRP59MN&pf_rd_t=101&pf_rd_p=a108fb42-c75a-4824-b892-da64a8b07dee&pf_rd_i=283155
@@ -138,11 +147,11 @@ export const BooksProduct = {
             ],
             gallery: [
                 {
-                    original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51Ga5GuElyL._SX331_BO1,204,203,200_.jpg',
-                    thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51Ga5GuElyL._SX331_BO1,204,203,200_.jpg',
+                    original: Bookfour,
+                    thumbnail: Bookfour,
                 }
             ],
-            img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51Ga5GuElyL._SX331_BO1,204,203,200_.jpg',
+            img: Bookfour,
             name: 'Slow Horses (Deluxe Edition) (Slough House)'
         },
         // https://www.amazon.com/Ugly-Love-Novel-Colleen-Hoover/dp/1476753180/ref=zg_sccl_2/143-7867947-0622545?pd_rd_w=LbKPB&content-id=amzn1.sym.193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_p=193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_r=AJDFRVWM3WVXFHRP59MN&pd_rd_wg=y5J0T&pd_rd_r=84e5d408-80a6-4284-acfc-3c44b8e76fae&pd_rd_i=1476753180&psc=1
@@ -172,15 +181,15 @@ export const BooksProduct = {
             ],
             gallery: [
                 {
-                    original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/41mBCtaJ1XL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg',
-                    thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/41mBCtaJ1XL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg',
+                    original: Bookfive,
+                    thumbnail: Bookfive,
                 },
                 {
-                    original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/815wvjrMo-L.jpg',
-                    thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/815wvjrMo-L.jpg',
+                    original: Bookfive_1,
+                    thumbnail: Bookfive_1,
                 },
             ],
-            img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/41mBCtaJ1XL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg',
+            img: Bookfive,
             name: 'Ugly Love: A Novel'
         },
         // https://www.amazon.com/Teenage-Mutant-Ninja-Turtles-Ronin/dp/1684058414/ref=zg_sccl_2/143-7867947-0622545?pd_rd_w=LbKPB&content-id=amzn1.sym.193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_p=193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_r=AJDFRVWM3WVXFHRP59MN&pd_rd_wg=y5J0T&pd_rd_r=84e5d408-80a6-4284-acfc-3c44b8e76fae&pd_rd_i=1684058414&psc=1
@@ -210,19 +219,19 @@ export const BooksProduct = {
             ],
             gallery: [
                 {
-                    original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/519isozjeCL._SX330_BO1,204,203,200_.jpg',
-                    thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/519isozjeCL._SX330_BO1,204,203,200_.jpg',
+                    original: Booksix,
+                    thumbnail: Booksix,
                 },
                 {
-                    original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71cCavGWMAL.jpg',
-                    thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71cCavGWMAL.jpg',
+                    original: Booksix_1,
+                    thumbnail: Booksix_1,
                 },
                 {
-                    original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/611GG-n52-L.jpg',
-                    thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/611GG-n52-L.jpg',
+                    original: Booksix_2,
+                    thumbnail: Booksix_2,
                 },
             ],
-            img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/519isozjeCL._SX330_BO1,204,203,200_.jpg',
+            img: Booksix,
             name: 'Teenage Mutant Ninja Turtles: The Last Roninّ'
         },
         // https://www.amazon.com/Dark-Future-Uncovering-Resets-Terrifying/dp/1637632118/ref=sr_1_6?crid=1QEV93OF3A18H&keywords=books&qid=1679969128&s=books&sprefix=boo%2Cstripbooks%2C476&sr=1-6
@@ -252,11 +261,11 @@ export const BooksProduct = {
             ],
             gallery: [
                 {
-                    original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/41DwUTDukUL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg',
-                    thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/41DwUTDukUL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg',
+                    original: Bookseven,
+                    thumbnail: Bookseven,
                 }
             ],
-            img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/41DwUTDukUL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg',
+            img: Bookseven,
             name: `Dark Future: Uncovering the Great Reset's Terrifying Next Phase (The Great Reset Series)`
         },
     ]
