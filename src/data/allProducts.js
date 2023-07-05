@@ -158,6 +158,35 @@ import cameraseven_1 from './img/Camera/cameraseven_1.jpg';
 import cameraseven_2 from './img/Camera/cameraseven_2.jpg';
 
 // puddle board
+import puddleone from './img/PuddleBoard/puddleone.jpg';
+import puddleone_1 from './img/PuddleBoard/puddleone_1.jpg';
+import puddleone_2 from './img/PuddleBoard/puddleone_2.jpg';
+
+import puddletwo from './img/PuddleBoard/puddletwo.jpg';
+import puddletwo_1 from './img/PuddleBoard/puddletwo_1.jpg';
+import puddletwo_2 from './img/PuddleBoard/puddletwo_2.jpg';
+
+import puddlethree from './img/PuddleBoard/puddlethree.jpg';
+import puddlethree_1 from './img/PuddleBoard/puddlethree_1.jpg';
+import puddlethree_2 from './img/PuddleBoard/puddlethree_2.jpg';
+
+import puddlefour from './img/PuddleBoard/puddlefour.jpg';
+import puddlefour_1 from './img/PuddleBoard/puddlefour_1.jpg';
+import puddlefour_2 from './img/PuddleBoard/puddlefour_2.jpg';
+
+import puddlefive from './img/PuddleBoard/puddlefive.jpg';
+import puddlefive_1 from './img/PuddleBoard/puddlefive_1.jpg';
+import puddlefive_2 from './img/PuddleBoard/puddlefive_2.jpg';
+
+import puddlesix from './img/PuddleBoard/puddlesix.jpg';
+import puddlesix_1 from './img/PuddleBoard/puddlesix_1.jpg';
+import puddlesix_2 from './img/PuddleBoard/puddlesix_2.jpg';
+
+import puddleseven from './img/PuddleBoard/puddleseven.jpg';
+import puddleseven_1 from './img/PuddleBoard/puddleseven_1.jpg';
+import puddleseven_2 from './img/PuddleBoard/puddleseven_2.jpg';
+
+// boosted board
 export const allProduct = [
     // https://www.amazon.com/Backpack-Business-Charging-Resistant-Computer/dp/B06XZTZ7GB/ref=sr_1_1?crid=1W728VOU0AZ32&keywords=backpack&qid=1680034995&sprefix=running+shoes%2Caps%2C1797&sr=8-1
     {
@@ -1604,19 +1633,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/818icRIAZfL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/818icRIAZfL._AC_SX679_.jpg',
+                original: puddleone,
+                thumbnail: puddleone,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81Qg4sY+3DL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81Qg4sY+3DL._AC_SX679_.jpg',
+                original: puddleone_1,
+                thumbnail: puddleone_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81nndFlk7XL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81nndFlk7XL._AC_SX679_.jpg',
+                original: puddleone_2,
+                thumbnail: puddleone_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/818icRIAZfL._AC_SX679_.jpg',
+        img: puddleone,
         name: `Highpi Inflatable Stand Up Paddle Board 11'x33''x6''W Premium SUP Accessories, Backpack, Wide Stance, Surf Control, Non-Slip Deck, Leash, Paddle and Pump,`
     },
     // https://www.amazon.com/SereneLife-Inflatable-Accessories-Paddling-Non-Slip/dp/B0892HRPSB/ref=sr_1_6?keywords=puddle+board&qid=1680049384&sprefix=pudle+boa%2Caps%2C530&sr=8-6
@@ -1646,19 +1675,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81a57lKB+3L._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81a57lKB+3L._AC_SX679_.jpg',
+                original: puddletwo,
+                thumbnail: puddletwo,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/91NwmFe6nmL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/91NwmFe6nmL._AC_SX679_.jpg',
+                original: puddletwo_1,
+                thumbnail: puddletwo_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/9156OTfczYL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/9156OTfczYL._AC_SX679_.jpg',
+                original: puddletwo_2,
+                thumbnail: puddletwo_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81a57lKB+3L._AC_SX679_.jpg',
+        img: puddletwo,
         name: 'SereneLife Inflatable Stand Up Paddle Board (6 Inches Thick) with Premium SUP Accessories & Carry Bag | Wide Stance, Bottom Fin for Paddling, Surf Control, Non-Slip Deck | Youth & Adult Standing Boat'
     },
     // https://www.amazon.com/PORTAL-Inflatable-Accessories-Including-Waterproof/dp/B08ZHVPWG5/ref=sr_1_17?keywords=puddle+board&qid=1680049384&sprefix=pudle+boa%2Caps%2C530&sr=8-17
@@ -1688,19 +1717,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71-XvUtWlVL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71-XvUtWlVL._AC_SX679_.jpg',
+                original: puddlethree,
+                thumbnail: puddlethree,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81DbHi2MyaL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81DbHi2MyaL._AC_SX679_.jpg',
+                original: puddlethree_1,
+                thumbnail: puddlethree_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71xZqyyjzCL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71xZqyyjzCL._AC_SX679_.jpg',
+                original: puddlethree_2,
+                thumbnail: puddlethree_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71-XvUtWlVL._AC_SX679_.jpg',
+        img: puddlethree,
         name: `PORTAL SUP Inflatable Paddle Board for Adults, 10'6'' /11'6'' Stand Up Paddleboards, Non-Slip Deck Blow up Paddle Boards with Adjustable Paddle, Carry Bag`
     },
     // https://www.amazon.com/Inflatable-Paddle-Family-Friendly-Stripes/dp/B0BGCFCPGP/ref=sr_1_20_sspa?keywords=puddle+board&qid=1680049384&sprefix=pudle+boa%2Caps%2C530&sr=8-20-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFEOVlLT0RaSzVMNVYmZW5jcnlwdGVkSWQ9QTAwNTU5MzFEUTA2TDZGNTdVWVUmZW5jcnlwdGVkQWRJZD1BMDQyODIzNjFPUTZXQUZYMTM5UFYmd2lkZ2V0TmFtZT1zcF9tdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl
@@ -1730,19 +1759,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71PLnbhFGRL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71PLnbhFGRL._AC_SX679_.jpg',
+                original: puddlefour,
+                thumbnail: puddlefour,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71dWzMrjEKL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71dWzMrjEKL._AC_SX679_.jpg',
+                original: puddlefour_1,
+                thumbnail: puddlefour_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71fRXj5vV7L._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71fRXj5vV7L._AC_SX679_.jpg',
+                original: puddlefour_2,
+                thumbnail: puddlefour_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71PLnbhFGRL._AC_SX679_.jpg',
+        img: puddlefour,
         name: 'Bote iSUP Flow Aero 8 Foot Kids Inflatable Stand Up Paddle Board Adult Family Friendly SUP, Native Stripes'
     },
     // https://www.amazon.com/Highpi-Inflatable-106x32x6-Accessories-Anti-Slip/dp/B08R389LLS/ref=sr_1_28?keywords=puddle%2Bboard&qid=1680049384&sprefix=pudle%2Bboa%2Caps%2C530&sr=8-28&th=1
@@ -1772,19 +1801,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71Cv1fCCeQL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71Cv1fCCeQL._AC_SX679_.jpg',
+                original: puddlefive,
+                thumbnail: puddlefive,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81q97xt2hnL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81q97xt2hnL._AC_SX679_.jpg',
+                original: puddlefive_1,
+                thumbnail: puddlefive_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81oRejNYOKL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81oRejNYOKL._AC_SX679_.jpg',
+                original: puddlefive_2,
+                thumbnail: puddlefive_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71Cv1fCCeQL._AC_SX679_.jpg',
+        img: puddlefive,
         name: `Highpi Inflatable Stand Up Paddle Board 10'6''/11' Premium SUP W Accessories & Backpack, Wide Stance, Surf Control, Non-Slip Deck, Leash, Paddle and Pump, Standing Boat for Youth & Adult`
     },
     // https://www.amazon.com/FAYEAN-Inflatable-Include-Backpack-Waterproof/dp/B08FMFLNHK/ref=sr_1_52?keywords=puddle+board&qid=1680049384&sprefix=pudle+boa%2Caps%2C530&sr=8-52
@@ -1814,19 +1843,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71R0O940Z9L._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71R0O940Z9L._AC_SX679_.jpg',
+                original: puddlesix,
+                thumbnail: puddlesix,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/819XejQickS._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/819XejQickS._AC_SX679_.jpg',
+                original: puddlesix_1,
+                thumbnail: puddlesix_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71kiDTjrPMS._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71kiDTjrPMS._AC_SX679_.jpg',
+                original: puddlesix_2,
+                thumbnail: puddlesix_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71R0O940Z9L._AC_SX679_.jpg',
+        img: puddlesix,
         name: `Paddle Board, Fayean Inflatable Stand Up Paddle Board 10' x 28''x 6'' Ultra-Light Paddleboard SUP Includes Pump, Adjustable Paddle, Backpack, Coil Leash Waterproof Bag Whale`
     },
     // https://www.amazon.com/Goplus-Inflatable-Accessories-Paddling-Non-Slip/dp/B086XBW2B1/ref=sr_1_53?keywords=puddle+board&qid=1680049384&sprefix=pudle+boa%2Caps%2C530&sr=8-53
@@ -1856,19 +1885,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61aQ3uAkdaL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61aQ3uAkdaL._AC_SX679_.jpg',
+                original: puddleseven,
+                thumbnail: puddleseven,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71FPvDuRx6L._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71FPvDuRx6L._AC_SX679_.jpg',
+                original: puddleseven_1,
+                thumbnail: puddleseven_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/616VVFJAavL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/616VVFJAavL._AC_SX679_.jpg',
+                original: puddleseven_2,
+                thumbnail: puddleseven_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61aQ3uAkdaL._AC_SX679_.jpg',
+        img: puddleseven,
         name: `Goplus 9.8'/10'/11' Inflatable Stand Up Paddle Board, 6.5” Thick SUP with Premium Accessories and Carry Bag, Wide Stance, Bottom Fin for Paddling, Surf Control, Non-Slip Deck, for Youth and Adult`
     },
     // https://www.amazon.com/Nothing-Phone1-256GB-Factory-Unlocked/dp/B0B76J71DJ/ref=sr_1_2?keywords=nothing+phone+1&qid=1680035495&sprefix=nothing%2Caps%2C341&sr=8-2
