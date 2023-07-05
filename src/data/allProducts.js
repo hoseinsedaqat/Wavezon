@@ -187,6 +187,33 @@ import puddleseven_1 from './img/PuddleBoard/puddleseven_1.jpg';
 import puddleseven_2 from './img/PuddleBoard/puddleseven_2.jpg';
 
 // boosted board
+import boostedone from './img/BoostedBoard/boostedone.jpg';
+import boostedone_1 from './img/BoostedBoard/boostedone_1.jpg';
+import boostedone_2 from './img/BoostedBoard/boostedone_2.jpg';
+
+import boostedtwo from './img/BoostedBoard/boostedtwo.jpg';
+import boostedtwo_1 from './img/BoostedBoard/boostedtwo_1.jpg';
+import boostedtwo_2 from './img/BoostedBoard/boostedtwo_2.jpg';
+
+import boostedthree from './img/BoostedBoard/boostedthree.jpg';
+import boostedthree_1 from './img/BoostedBoard/boostedthree_1.jpg';
+import boostedthree_2 from './img/BoostedBoard/boostedthree_2.jpg';
+
+import boostedfour from './img/BoostedBoard/boostedfour.jpg';
+import boostedfour_1 from './img/BoostedBoard/boostedfour_1.jpg';
+import boostedfour_2 from './img/BoostedBoard/boostedfour_2.jpg';
+
+import boostedfive from './img/BoostedBoard/boostedfive.jpg';
+import boostedfive_1 from './img/BoostedBoard/boostedfive_1.jpg';
+import boostedfive_2 from './img/BoostedBoard/boostedfive_2.jpg';
+
+import boostedsix from './img/BoostedBoard/boostedsix.jpg';
+import boostedsix_1 from './img/BoostedBoard/boostedsix_1.jpg';
+import boostedsix_2 from './img/BoostedBoard/boostedsix_2.jpg';
+
+import boostedseven from './img/BoostedBoard/boostedseven.jpg';
+import boostedseven_1 from './img/BoostedBoard/boostedseven_1.jpg';
+import boostedseven_2 from './img/BoostedBoard/boostedseven_2.jpg';
 export const allProduct = [
     // https://www.amazon.com/Backpack-Business-Charging-Resistant-Computer/dp/B06XZTZ7GB/ref=sr_1_1?crid=1W728VOU0AZ32&keywords=backpack&qid=1680034995&sprefix=running+shoes%2Caps%2C1797&sr=8-1
     {
@@ -759,19 +786,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81MmRo5e5yL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81MmRo5e5yL._AC_SX679_.jpg',
+                original: boostedone,
+                thumbnail: boostedone,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81uLl-y+adL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81uLl-y+adL._AC_SX679_.jpg',
+                original: boostedone_1,
+                thumbnail: boostedone_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71livUg8mdL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71livUg8mdL._AC_SX679_.jpg',
+                original: boostedone_2,
+                thumbnail: boostedone_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81MmRo5e5yL._AC_SX679_.jpg',
+        img: boostedone,
         name: 'WOOKRAYS 38" Electric Skateboard with Remote, 900W Dual Motor Electric Longboard, Top Speed 25 MPH, 21.7 Miles Range, 8 Layers Maple, 3 Speed Adjustment E-Skateboard for Adult Teens'
     },
     // https://www.amazon.com/Electric-Skateboard-Braking-Suitable-Beginners/dp/B0BPSNM5RS/ref=sr_1_1_sspa?keywords=boosted+board&qid=1680049957&sprefix=boosted%2Caps%2C569&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyS0ZYNlA0RjlMUVFBJmVuY3J5cHRlZElkPUEwNTU3OTY0MUZLWFJFSzJZWENXWSZlbmNyeXB0ZWRBZElkPUEwOTUyNjQwMzlJV1ZUV1NPM1pUNyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
@@ -801,19 +828,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61qqpwNV3ML._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61qqpwNV3ML._AC_SX679_.jpg',
+                original: boostedtwo,
+                thumbnail: boostedtwo,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51D6ZBfmRYL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51D6ZBfmRYL._AC_SX679_.jpg',
+                original: boostedtwo_1,
+                thumbnail: boostedtwo_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71xZ88yTDcL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71xZ88yTDcL._AC_SX679_.jpg',
+                original: boostedtwo_2,
+                thumbnail: boostedtwo_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61qqpwNV3ML._AC_SX679_.jpg',
+        img: boostedtwo,
         name: 'MEEPO V5 Electric Skateboard with Remote, Top Speed of 29 Mph, Smooth Braking, Easy Carry Handle Design, Suitable for Adults & Teens Beginners'
     },
     // https://www.amazon.com/Meepo-Electric-Skateboard-Capacity-Cruiser/dp/B0BPSLZ9CY/ref=sr_1_2_sspa?keywords=boosted+board&qid=1680049957&sprefix=boosted%2Caps%2C569&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyS0ZYNlA0RjlMUVFBJmVuY3J5cHRlZElkPUEwNTU3OTY0MUZLWFJFSzJZWENXWSZlbmNyeXB0ZWRBZElkPUEwNzY2MTU1MzFQMFE1OVZPVU9SMSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
@@ -843,19 +870,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71K3OTrrCJL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71K3OTrrCJL._AC_SX679_.jpg',
+                original: boostedthree,
+                thumbnail: boostedthree,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61+sQqORQQL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61+sQqORQQL._AC_SX679_.jpg',
+                original: boostedthree_1,
+                thumbnail: boostedthree_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81ryrgR+v1L._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81ryrgR+v1L._AC_SX679_.jpg',
+                original: boostedthree_2,
+                thumbnail: boostedthree_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71K3OTrrCJL._AC_SX679_.jpg',
+        img: boostedthree,
         name: 'MEEPO Electric Skateboard with Remote, 28 MPH Top Speed, 11 Miles Range,330 Pounds Max Load, Maple Cruiser for Adults and Teens, Mini5'
     },
     // https://www.amazon.com/Caroma-Electric-Skateboard-Skateboard-Longboard/dp/B08N4DFF95/ref=sr_1_3_sspa?keywords=boosted+board&qid=1680049957&sprefix=boosted%2Caps%2C569&sr=8-3-spons&psc=1&smid=A2U9D4W6I6MWDN&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyS0ZYNlA0RjlMUVFBJmVuY3J5cHRlZElkPUEwNTU3OTY0MUZLWFJFSzJZWENXWSZlbmNyeXB0ZWRBZElkPUEwMzQxNjk3M1JIOFpPMjNRUE1FJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
@@ -885,19 +912,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81Yl1gU78wL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81Yl1gU78wL._AC_SX679_.jpg',
+                original: boostedfour,
+                thumbnail: boostedfour,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71pJ6lJ70TL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71pJ6lJ70TL._AC_SX679_.jpg',
+                original: boostedfour_1,
+                thumbnail: boostedfour_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71URBRmop1L._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71URBRmop1L._AC_SX679_.jpg',
+                original: boostedfour_2,
+                thumbnail: boostedfour_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81Yl1gU78wL._AC_SX679_.jpg',
+        img: boostedfour,
         name: 'Caroma Electric Skateboards with Remote, 700W Dual Motor, 18.6 MPH Max Speed, 12 Miles Range, Electric Longboard for Adults'
     },
     // https://www.amazon.com/MEEPO-Electric-Skateboard-Remote-Miles/dp/B09YQBDLB7/ref=sr_1_4_sspa?keywords=boosted+board&qid=1680049957&sprefix=boosted%2Caps%2C569&sr=8-4-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyS0ZYNlA0RjlMUVFBJmVuY3J5cHRlZElkPUEwNTU3OTY0MUZLWFJFSzJZWENXWSZlbmNyeXB0ZWRBZElkPUEwNjIxNzQ1MzVNRzYxT1ZSRjI4SyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
@@ -910,7 +937,7 @@ export const allProduct = [
         information: [
             {
                 title: 'Brand',
-                description: 'MEEPO'
+                description: 'SIFLIF'
             },
             {
                 title: 'Load Capacity',
@@ -927,20 +954,20 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81Ivr3HYYKL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81Ivr3HYYKL._AC_SX679_.jpg',
+                original: boostedfive,
+                thumbnail: boostedfive,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61GVzIC0sEL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61GVzIC0sEL._AC_SX679_.jpg',
+                original: boostedfive_1,
+                thumbnail: boostedfive_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61Xn4WiFpLL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61Xn4WiFpLL._AC_SX679_.jpg',
+                original: boostedfive_2,
+                thumbnail: boostedfive_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81Ivr3HYYKL._AC_SX679_.jpg',
-        name: 'MEEPO Electric Skateboard with Remote, 28 MPH Top Speed, 330 LBS Load Capacity, Maple Cruiser for Adults and Teens, Mini2 S ER'
+        img: boostedfive,
+        name: 'SIFLIF Electric Skateboard with Wireless Remote 30" Electric Longboard for Adults & Teens, 20MPH Top Speed,350W Motorload Highest177 lbs,1 Year Warranty'
     },
     // https://www.amazon.com/SKATEBOLT-Skateboard-Electronic-Longboard-Controller/dp/B083FS2JCT/ref=sxin_18?asc_contentid=amzn1.osa.8b6a0673-421f-47a2-aba7-31490a60bca0.ATVPDKIKX0DER.en_US&asc_contenttype=article&ascsubtag=amzn1.osa.8b6a0673-421f-47a2-aba7-31490a60bca0.ATVPDKIKX0DER.en_US&content-id=amzn1.sym.2501e731-e00e-46aa-97f8-28a8de3ef511%3Aamzn1.sym.2501e731-e00e-46aa-97f8-28a8de3ef511&creativeASIN=B083FS2JCT&cv_ct_cx=boosted+board&cv_ct_id=amzn1.osa.8b6a0673-421f-47a2-aba7-31490a60bca0.ATVPDKIKX0DER.en_US&cv_ct_pg=search&cv_ct_we=asin&cv_ct_wn=osp-single-source-pecos-desktop&keywords=boosted+board&linkCode=oas&pd_rd_i=B083FS2JCT&pd_rd_r=5b9d7d0b-36d3-4a19-9566-07e24b440bd6&pd_rd_w=Rypuc&pd_rd_wg=BPVjh&pf_rd_p=2501e731-e00e-46aa-97f8-28a8de3ef511&pf_rd_r=RV4BQ358KZ801K2RT2J1&qid=1680049957&sbo=EO%2BcdOgoisx3waG5xqcZQA%3D%3D&sprefix=boosted%2Caps%2C569&sr=1-2-c26ac7f6-b43f-4741-a772-17cad7536576&tag=muo0a-20
     {
@@ -969,19 +996,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/516zxhtq53L._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/516zxhtq53L._AC_SX679_.jpg',
+                original: boostedsix,
+                thumbnail: boostedsix,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/514L9R1Sg3L._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/514L9R1Sg3L._AC_SX679_.jpg',
+                original: boostedsix_1,
+                thumbnail: boostedsix_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71preuRbpeL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71preuRbpeL._AC_SX679_.jpg',
+                original: boostedsix_2,
+                thumbnail: boostedsix_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/516zxhtq53L._AC_SX679_.jpg',
+        img: boostedsix,
         name: 'SKATEBOLT Tornado II Electric Skateboard 26 MPH Top Speed 24 Miles Range,6 Months Warranty 4 Speed Modes Electric Longboard with LCD Remote Controller'
     },
     // https://www.amazon.com/isinwheel-V8-Skateboard-Brushless-Waterproof/dp/B0BF5WS8DS/ref=sr_1_16?keywords=boosted+board&qid=1680049957&sprefix=boosted%2Caps%2C569&sr=8-16
@@ -1011,19 +1038,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71ctALXHOEL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71ctALXHOEL._AC_SX679_.jpg',
+                original: boostedseven,
+                thumbnail: boostedseven,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71oYlSpMAUL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71oYlSpMAUL._AC_SX679_.jpg',
+                original: boostedseven_1,
+                thumbnail: boostedseven_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81bIym4pk5L._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81bIym4pk5L._AC_SX679_.jpg',
+                original: boostedseven_2,
+                thumbnail: boostedseven_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71ctALXHOEL._AC_SX679_.jpg',
+        img: boostedseven,
         name: 'isinwheel V8 Electric Skateboard with Remote, 1200W Brushless Motor, 30 Mph Top Speed & 12 Miles Range, IPX6 Waterproof, Electric Longboard for Adults ＆Teens with Green Ambient Light'
     },
     // https://www.amazon.com/Canon-Rebel-T7-18-55mm-II/dp/B07C2Z21X5/ref=sr_1_3?crid=E4O51BASX90A&keywords=camera&qid=1680037072&sprefix=camera%2Caps%2C824&sr=8-3
