@@ -131,6 +131,33 @@ import chocolateseven_1 from './img/Chocolate/chocolateseven_1.jpg';
 import chocolateseven_2 from './img/Chocolate/chocolateseven_2.jpg';
 
 // camera
+import cameraone from './img/Camera/cameraone.jpg';
+
+import cameratwo from './img/Camera/cameratwo.jpg';
+import cameratwo_1 from './img/Camera/cameratwo_1.jpg';
+import cameratwo_2 from './img/Camera/cameratwo_2.jpg';
+
+import camerathree from './img/Camera/camerathree.jpg';
+import camerathree_1 from './img/Camera/camerathree_1.jpg';
+import camerathree_2 from './img/Camera/camerathree_2.jpg';
+
+import camerafour from './img/Camera/camerafour.jpg';
+import camerafour_1 from './img/Camera/camerafour_1.jpg';
+import camerafour_2 from './img/Camera/camerafour_2.jpg';
+
+import camerafive from './img/Camera/camerafive.jpg';
+import camerafive_1 from './img/Camera/camerafive_1.jpg';
+import camerafive_2 from './img/Camera/camerafive_2.jpg';
+
+import camerasix from './img/Camera/camerasix.jpg';
+import camerasix_1 from './img/Camera/camerasix_1.jpg';
+import camerasix_2 from './img/Camera/camerasix_2.jpg';
+
+import cameraseven from './img/Camera/cameraseven.jpg';
+import cameraseven_1 from './img/Camera/cameraseven_1.jpg';
+import cameraseven_2 from './img/Camera/cameraseven_2.jpg';
+
+// puddle board
 export const allProduct = [
     // https://www.amazon.com/Backpack-Business-Charging-Resistant-Computer/dp/B06XZTZ7GB/ref=sr_1_1?crid=1W728VOU0AZ32&keywords=backpack&qid=1680034995&sprefix=running+shoes%2Caps%2C1797&sr=8-1
     {
@@ -997,19 +1024,11 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71EWRyqzw0L._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71EWRyqzw0L._AC_SX679_.jpg',
-            },
-            {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71sQ1on0fuL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71sQ1on0fuL._AC_SX679_.jpg',
-            },
-            {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/717xSjyDRzL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/717xSjyDRzL._AC_SX679_.jpg',
+                original: cameraone,
+                thumbnail: cameraone,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71EWRyqzw0L._AC_SX679_.jpg',
+        img: cameraone,
         name: 'Canon EOS Rebel T7 DSLR Camera with 18-55mm Lens | Built-in Wi-Fi | 24.1 MP CMOS Sensor | DIGIC 4+ Image Processor and Full HD Videos'
     },
     // https://www.amazon.com/Sony-Alpha-a6400-Mirrorless-Camera/dp/B07MV3P74D/ref=sr_1_4?crid=E4O51BASX90A&keywords=camera&qid=1680037072&sprefix=camera%2Caps%2C824&sr=8-4
@@ -1039,19 +1058,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71zs+RZUggL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71zs+RZUggL._AC_SX466_.jpg',
+                original: cameratwo,
+                thumbnail: cameratwo,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71hUik1Lm2L._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71hUik1Lm2L._AC_SX466_.jpg',
+                original: cameratwo_1,
+                thumbnail: cameratwo_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71oAgVrBbLL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71oAgVrBbLL._AC_SX466_.jpg',
+                original: cameratwo_2,
+                thumbnail: cameratwo_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71zs+RZUggL._AC_SX466_.jpg',
+        img: cameratwo,
         name: 'Sony Alpha a6400 Mirrorless Camera: Compact APS-C Interchangeable Lens Digital Camera with Real-Time Eye Auto Focus, 4K Video, Flip Screen & 18-135mm Lens - E Mount Compatible Cameras - ILCE-6400M/B'
     },
     // https://www.amazon.com/Canon-Mirrorless-Camera-24-105mm-4147C013/dp/B08C6CWVNZ/ref=sr_1_6?crid=E4O51BASX90A&keywords=camera&qid=1680037072&sprefix=camera%2Caps%2C824&sr=8-6
@@ -1081,19 +1100,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81depb5FkhL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81depb5FkhL._AC_SX466_.jpg',
+                original: camerathree,
+                thumbnail: camerathree,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/812V+j+Ac0L._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/812V+j+Ac0L._AC_SX466_.jpg',
+                original: camerathree_1,
+                thumbnail: camerathree_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81lGm5ZHXhL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81lGm5ZHXhL._AC_SX466_.jpg',
+                original: camerathree_2,
+                thumbnail: camerathree_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81depb5FkhL._AC_SX466_.jpg',
+        img: camerathree,
         name: 'Canon EOS R5 Full-Frame Mirrorless Camera w/ RF24-105mm F4 L is USM Lens Kit - 8K Video, 45 Megapixel Full-Frame CMOS Sensor, DIGIC X Image Processor, Up to 12 fps Mechanical Shutter (Body + Lens)'
     },
     // https://www.amazon.com/Nikon-D850-FX-Format-Digital-Camera/dp/B07524LHMT/ref=sr_1_14?crid=E4O51BASX90A&keywords=camera&qid=1680037072&sprefix=camera%2Caps%2C824&sr=8-14
@@ -1123,19 +1142,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71HJnJrxzEL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71HJnJrxzEL._AC_SX466_.jpg',
+                original: camerafour,
+                thumbnail: camerafour,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81pa13+aYUL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81pa13+aYUL._AC_SX466_.jpg',
+                original: camerafour_1,
+                thumbnail: camerafour_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71S57zZExlL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71S57zZExlL._AC_SX466_.jpg',
+                original: camerafour_2,
+                thumbnail: camerafour_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71HJnJrxzEL._AC_SX466_.jpg',
+        img: camerafour,
         name: 'Nikon D850 FX-Format Digital SLR Camera Body'
     },
     // https://www.amazon.com/Canon-RF-S18-45mm-Mirrorless-High-Speed-Lightweight/dp/B0B2KV35NX/ref=sr_1_21?crid=E4O51BASX90A&keywords=camera&qid=1680037072&sprefix=camera%2Caps%2C824&sr=8-21
@@ -1165,19 +1184,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/613MQeeJ4ML._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/613MQeeJ4ML._AC_SX466_.jpg',
+                original: camerafive,
+                thumbnail: camerafive,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61mvx4FMFhL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61mvx4FMFhL._AC_SX466_.jpg',
+                original: camerafive_1,
+                thumbnail: camerafive_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61RjEGyVW-L._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61RjEGyVW-L._AC_SX466_.jpg',
+                original: camerafive_2,
+                thumbnail: camerafive_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/613MQeeJ4ML._AC_SX466_.jpg',
+        img: camerafive,
         name: 'Canon EOS R10 RF-S18-45mm F4.5-6.3 is STM Lens Kit, Mirrorless Vlogging Camera, 24.2 MP, 4K Video, DIGIC X Image Processor, High-Speed Shooting, Subject Tracking, Compact, for Content Creators'
     },
     // https://www.amazon.com/OM-System-OM-1-Camera-Black/dp/B09S5JBX56/ref=sr_1_2_sspa?content-id=amzn1.sym.1b55e175-aab2-4228-be7e-b2330901df8b%3Aamzn1.sym.1b55e175-aab2-4228-be7e-b2330901df8b&keywords=digital+camera&pd_rd_r=d2590fff-5e1e-4ce2-96a4-a9fd8621527d&pd_rd_w=FX6JQ&pd_rd_wg=2elBq&pf_rd_p=1b55e175-aab2-4228-be7e-b2330901df8b&pf_rd_r=WF2NMDRY0NKY4Q8AHQ0A&qid=1680037318&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyREtXV1pBUEdBR1NTJmVuY3J5cHRlZElkPUEwNTI0MDgxSVQwRTRSTkRZSjMzJmVuY3J5cHRlZEFkSWQ9QTA4MzMyNzgzVVkzSzlRN0xHSEdDJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
@@ -1207,19 +1226,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81EmQQDJwhL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81EmQQDJwhL._AC_SX466_.jpg',
+                original: camerasix,
+                thumbnail: camerasix,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81hPuEGentL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81hPuEGentL._AC_SX466_.jpg',
+                original: camerasix_1,
+                thumbnail: camerasix_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61wTwGmX5TL._AC_SX466_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61wTwGmX5TL._AC_SX466_.jpg',
+                original: camerasix_2,
+                thumbnail: camerasix_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81EmQQDJwhL._AC_SX466_.jpg',
+        img: camerasix,
         name: 'OM System OM-1 Micro Four Thirds System Camera 20MP BSI Stacked Sensor Weather Sealed Design 5-Axis Image Stabilization 120fps sequential Shooting'
     },
     // https://www.amazon.com/Vlogging-Autofocus-Photography-Batteries-Charging/dp/B0BGLDXHGY/ref=sr_1_6_mod_primary_new?content-id=amzn1.sym.1b55e175-aab2-4228-be7e-b2330901df8b%3Aamzn1.sym.1b55e175-aab2-4228-be7e-b2330901df8b&keywords=digital+camera&pd_rd_r=d2590fff-5e1e-4ce2-96a4-a9fd8621527d&pd_rd_w=FX6JQ&pd_rd_wg=2elBq&pf_rd_p=1b55e175-aab2-4228-be7e-b2330901df8b&pf_rd_r=WF2NMDRY0NKY4Q8AHQ0A&qid=1680037318&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-6
@@ -1249,19 +1268,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/712T6VYeaWL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/712T6VYeaWL._AC_SX679_.jpg',
+                original: cameraseven,
+                thumbnail: cameraseven,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81TshgOMMhL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81TshgOMMhL._AC_SX679_.jpg',
+                original: cameraseven_1,
+                thumbnail: cameraseven_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81I1AGLVzRL._AC_SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81I1AGLVzRL._AC_SX679_.jpg',
+                original: cameraseven_2,
+                thumbnail: cameraseven_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/712T6VYeaWL._AC_SX679_.jpg',
+        img: cameraseven,
         name: 'Vlogging Camera, 4K Digital Camera for YouTube Autofocus 16X Digital Zoom 48MP Video Cameras for Photography with 32GB SD Card, 180 Degree 3.0 inch Flip Screen, 2 Batteries and Charging Stand'
     },
     // https://www.amazon.com/Ferrero-Rocher-Collection-Hazelnut-Chocolates/dp/B01BDI89SW/ref=sr_1_1?keywords=chocolate&qid=1680036449&sprefix=choc%2Caps%2C358&sr=8-1
