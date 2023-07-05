@@ -102,6 +102,35 @@ import phoneseven_1 from './img/Smartphone/phoneseven_1.jpg';
 import phoneseven_2 from './img/Smartphone/phoneseven_2.jpg';
 
 // choclate
+import chocolateone from './img/Chocolate/chocolateone.jpg';
+import chocolateone_1 from './img/Chocolate/chocolateone_1.jpg';
+import chocolateone_2 from './img/Chocolate/chocolateone_2.jpg';
+
+import chocolatetwo from './img/Chocolate/chocolatetwo.webp';
+import chocolatetwo_1 from './img/Chocolate/chocolatetwo_1.jpg';
+import chocolatetwo_2 from './img/Chocolate/chocolatetwo_2.jpg';
+
+import chocolatethree from './img/Chocolate/chocolatethree.jpg';
+import chocolatethree_1 from './img/Chocolate/chocolatethree_1.jpg';
+import chocolatethree_2 from './img/Chocolate/chocolatethree_2.jpg';
+
+import chocolatefour from './img/Chocolate/chocolatefour.jpg';
+import chocolatefour_1 from './img/Chocolate/chocolatefour_1.jpg';
+import chocolatefour_2 from './img/Chocolate/chocolatefour_2.jpg';
+
+import chocolatefive from './img/Chocolate/chocolatefive.jpg';
+import chocolatefive_1 from './img/Chocolate/chocolatefive_1.jpg';
+import chocolatefive_2 from './img/Chocolate/chocolatefive_2.jpg';
+
+import chocolatesix from './img/Chocolate/chocolatesix.jpg';
+import chocolatesix_1 from './img/Chocolate/chocolatesix_1.jpg';
+import chocolatesix_2 from './img/Chocolate/chocolatesix_2.jpg';
+
+import chocolateseven from './img/Chocolate/chocolateseven.jpg';
+import chocolateseven_1 from './img/Chocolate/chocolateseven_1.jpg';
+import chocolateseven_2 from './img/Chocolate/chocolateseven_2.jpg';
+
+// camera
 export const allProduct = [
     // https://www.amazon.com/Backpack-Business-Charging-Resistant-Computer/dp/B06XZTZ7GB/ref=sr_1_1?crid=1W728VOU0AZ32&keywords=backpack&qid=1680034995&sprefix=running+shoes%2Caps%2C1797&sr=8-1
     {
@@ -1262,19 +1291,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81PFgJ1gLTL._SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81PFgJ1gLTL._SX679_.jpg',
+                original: chocolateone,
+                thumbnail: chocolateone,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81IOTMrhR1L._SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81IOTMrhR1L._SX679_.jpg',
+                original: chocolateone_1,
+                thumbnail: chocolateone_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81h-0W+VEDL._SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81h-0W+VEDL._SX679_.jpg',
+                original: chocolateone_2,
+                thumbnail: chocolateone_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81PFgJ1gLTL._SX679_.jpg',
+        img: chocolateone,
         name: 'Ferrero Collection Premium Gourmet Assorted Hazelnut Milk Chocolate, Dark Chocolate and Coconut, A Great Easter Gift, 24 Count'
     },
     // https://www.amazon.com/Dove-Easter-Assorted-Springtime-Chocolate/dp/B01N6BVQGL/ref=sr_1_3?keywords=chocolate&qid=1680036449&sprefix=choc%2Caps%2C358&sr=8-3
@@ -1304,19 +1333,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/616gYG+Q5BL._SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/616gYG+Q5BL._SX679_.jpg',
+                original: chocolatetwo,
+                thumbnail: chocolatetwo,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/616hnLB90LL._SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/616hnLB90LL._SX679_.jpg',
+                original: chocolatetwo_1,
+                thumbnail: chocolatetwo_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61ZEeFJHYAL._SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61ZEeFJHYAL._SX679_.jpg',
+                original: chocolatetwo_2,
+                thumbnail: chocolatetwo_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/616gYG+Q5BL._SX679_.jpg',
+        img: chocolatetwo,
         name: 'DOVE Easter Assorted Chocolate Candy Springtime Mix, 22.6 oz'
     },
     // https://www.amazon.com/Ghirardelli-Assorted-Squares-15-77-Ounce/dp/B00V54CP0I/ref=sr_1_2?keywords=chocolate&qid=1680036449&sprefix=choc%2Caps%2C358&sr=8-2
@@ -1346,19 +1375,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81xmohLYlZL._SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81xmohLYlZL._SX679_.jpg',
+                original: chocolatethree,
+                thumbnail: chocolatethree,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81m9u7vnCfL._SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81m9u7vnCfL._SX679_.jpg',
+                original: chocolatethree_1,
+                thumbnail: chocolatethree_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71GzzlDlrhL._SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71GzzlDlrhL._SX679_.jpg',
+                original: chocolatethree_2,
+                thumbnail: chocolatethree_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81xmohLYlZL._SX679_.jpg',
+        img: chocolatethree,
         name: 'Ghirardelli Assorted Squares XL Bag, 15.77 Ounce'
     },
     // https://www.amazon.com/HERSHEYS-Nuggets-Chocolate-Candy-Assortment/dp/B07PFF8J2P/ref=sr_1_4?keywords=chocolate&qid=1680036449&sprefix=choc%2Caps%2C358&sr=8-4
@@ -1388,19 +1417,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/710Q2-3VTWL._SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/710Q2-3VTWL._SX679_.jpg',
+                original: chocolatefour,
+                thumbnail: chocolatefour,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71LEhRPneLL._SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71LEhRPneLL._SX679_.jpg',
+                original: chocolatefour_1,
+                thumbnail: chocolatefour_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/718vr9Y-IkL._SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/718vr9Y-IkL._SX679_.jpg',
+                original: chocolatefour_2,
+                thumbnail: chocolatefour_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/710Q2-3VTWL._SX679_.jpg',
+        img: chocolatefour,
         name: `HERSHEY'S NUGGETS Assorted Chocolate Silver and Gold Foil, Easter Candy Mix Bulk Party Pack, 31.5 oz`
     },
     // https://www.amazon.com/MS-Peanut-Chocolate-Candy-38-Ounce/dp/B07W5B3Z7Q/ref=sr_1_22?keywords=chocolate&qid=1680036449&sprefix=choc%2Caps%2C358&sr=8-22
@@ -1430,19 +1459,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61QAp0O0P6L._SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61QAp0O0P6L._SX679_.jpg',
+                original: chocolatefive,
+                thumbnail: chocolatefive,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61G7Z3toAcL._SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61G7Z3toAcL._SX679_.jpg',
+                original: chocolatefive_1,
+                thumbnail: chocolatefive_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61hva6ztf6L._SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61hva6ztf6L._SX679_.jpg',
+                original: chocolatefive_2,
+                thumbnail: chocolatefive_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61QAp0O0P6L._SX679_.jpg',
+        img: chocolatefive,
         name: `M&M'S Peanut Chocolate Candy, 38-Ounce Party Size Bag, Yellow`
     },
     // https://www.amazon.com/TWIX-CARAMEL-SIZE-18-28-OUNCE/dp/B09NCF31SX/ref=sr_1_25?keywords=chocolate&qid=1680036449&sprefix=choc%2Caps%2C358&sr=8-25
@@ -1472,19 +1501,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61W8hA8zHLL._SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61W8hA8zHLL._SX679_.jpg',
+                original: chocolatesix,
+                thumbnail: chocolatesix,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61j+VcfMXHL._SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61j+VcfMXHL._SX679_.jpg',
+                original: chocolatesix_1,
+                thumbnail: chocolatesix_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61RHAxX8x4L._SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61RHAxX8x4L._SX679_.jpg',
+                original: chocolatesix_2,
+                thumbnail: chocolatesix_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61W8hA8zHLL._SX679_.jpg',
+        img: chocolatesix,
         name: 'TWIX CARAMEL FUN SIZE 18.28 OUNCE'
     },
     // amazon.com/Chocolate-Snack-Candy-Individually-Wrapped/dp/B09JJYGCDH/ref=sr_1_39?keywords=chocolate&qid=1680036449&sprefix=choc%2Caps%2C358&sr=8-39
@@ -1514,19 +1543,19 @@ export const allProduct = [
         ],
         gallery: [
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/716n-gNfRyL._SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/716n-gNfRyL._SX679_.jpg',
+                original: chocolateseven,
+                thumbnail: chocolateseven,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81R4LTwfryL._SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/81R4LTwfryL._SX679_.jpg',
+                original: chocolateseven_1,
+                thumbnail: chocolateseven_1,
             },
             {
-                original: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71b46pEaHkL._SX679_.jpg',
-                thumbnail: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71b46pEaHkL._SX679_.jpg',
+                original: chocolateseven_2,
+                thumbnail: chocolateseven_2,
             }
         ],
-        img: 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/716n-gNfRyL._SX679_.jpg',
+        img: chocolateseven,
         name: 'KIT KAT Milk Chocolate Snack Size Candy, Individually Wrapped, 0.49 oz Bars (25 Count)'
     },
     // https://www.amazon.com/Highpi-Inflatable-11x33x6W-Accessories-Backpack/dp/B08Y8SBYXQ/ref=sr_1_1_sspa?keywords=puddle+board&qid=1680049384&sprefix=pudle+boa%2Caps%2C530&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFEOVlLT0RaSzVMNVYmZW5jcnlwdGVkSWQ9QTAwNTU5MzFEUTA2TDZGNTdVWVUmZW5jcnlwdGVkQWRJZD1BMDc0MTEzNU1IWFNHVk5OUzVUVCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
