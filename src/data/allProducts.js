@@ -933,7 +933,7 @@ export const allProduct = [
         price: 524.25,
         quantity: 1,
         path: 'boostedboard',
-        brand: 'MEEPO',
+        brand: 'SIFLIF',
         information: [
             {
                 title: 'Brand',
