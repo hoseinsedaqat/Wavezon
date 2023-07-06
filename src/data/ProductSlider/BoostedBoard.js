@@ -206,7 +206,7 @@ export const boostedBoardProducts = {
             information: [
                 {
                     title: 'Brand',
-                    description: 'MEEPO'
+                    description: 'SIFLIF'
                 },
                 {
                     title: 'Load Capacity',
