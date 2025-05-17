@@ -221,3 +221,10 @@
         width: 100%;
     }
 }
+
+
+@media screen and (min-width:1600px) {
+    #hero-product aside {
+        display: none;
+    }
+}
